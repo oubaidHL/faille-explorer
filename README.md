@@ -5,7 +5,7 @@ Bienvenue sur le dépôt collaboratif dédié à l'étude des vulnérabilités d
 ## 👥 Équipe du Projet
 
 * **Lead / Administrateur** : @oubaidHL
-* **Contributeurs** : @FARAH @EWAN @AURORE
+* **Contributeurs** : @FARAH @EWwAN @AURORE
 
 ---
 
