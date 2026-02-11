@@ -9,7 +9,7 @@ Bienvenue sur le dépôt collaboratif dédié à l'étude des vulnérabilités d
 
 ---
 
-## 🛠️ Instructions de Collaboration (Règles Git)
+## 🛠️ Instructions de Collaboration (instructions Git)
 
 Pour maintenir la propreté du code et éviter les erreurs, des règles de protection ont été mises en place :
 
