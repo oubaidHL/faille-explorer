@@ -13,7 +13,7 @@ Bienvenue sur le dépôt collaboratif dédié à l'étude des vulnérabilités d
 
 Pour maintenir la propreté du code et éviter les erreurs, des règles de protection ont été mises en place :
 
-1. **Interdiction de pousser (push) sur `main**` : La branche principale est verrouillée.
+1. **Interdiction de pousser (push) sur `main`** : La branche principale est verrouillée.
 2. **Branches individuelles** : Chaque membre doit créer une branche dédiée à sa faille.
 3. **Validation par Pull Request (PR)** : Pour fusionner votre travail dans `main`, vous devez ouvrir une PR qui sera revue.
 
