@@ -1,0 +1,24 @@
+# Vulnérabilité par Injection (OWASP)
+
+## Définition
+
+Selon l’OWASP, une vulnérabilité par injection est une faille du système qui permet à un hacker d’insérer du code ou des commandes malveillantes (telles que du code SQL ou des commandes shell) dans les champs d’entrée d’un programme.
+
+Le système est alors trompé et exécute ces commandes comme si elles faisaient partie du fonctionnement normal de l’application.
+
+## Conséquences
+
+Les attaques par injection peuvent entraîner des conséquences très graves, notamment :
+
+- Accès non autorisé aux données sensibles  
+- Modification ou suppression de données  
+- Prise de contrôle du système  
+- Compromission complète de l’application  
+
+## Exemple courant
+
+Un exemple classique est **l’injection SQL**, où un attaquant insère du code SQL malveillant dans un formulaire (login, recherche, etc.) afin de manipuler la base de données.
+
+---
+
+⚠️ Les vulnérabilités par injection font partie des risques majeurs répertoriés par l’OWASP.
