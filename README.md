@@ -1,4 +1,4 @@
-# 🛡️ Étude du Top 10 OWASP 2021 - Projet Académique
+# 🛡️ Étude du Top 10 OWASP 2025 - Projet Académique
 
 Bienvenue sur le dépôt collaboratif dédié à l'étude des vulnérabilités de sécurité web. Ce projet a pour objectif de documenter les failles critiques répertoriées par l'**OWASP** afin de mieux comprendre les risques et les méthodes de remédiation.
 
