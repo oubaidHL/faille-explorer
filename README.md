@@ -21,7 +21,7 @@ Pour maintenir la propreté du code et éviter les erreurs, des règles de prote
 
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/oubaidHL/GitHub_Graph.git
+git clone https://github.com/oubaidHL/faille-explorer.git
 
 # 2. Créer votre branche spécifique (ex: A03-Injection)
 git checkout -b AXX-Nom-De-La-Faille
